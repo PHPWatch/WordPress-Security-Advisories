@@ -12,5 +12,9 @@
             "name": "Ayesh Karunaratne",
             "email": "ayesh@ayesh.me"
         }
-    ]
+    ],
+    "conflict": {
+        "johnpbloch/wordpress": "<5.3.1",
+        "roots/wordpress": "<5.3.1"
+    }
 }
