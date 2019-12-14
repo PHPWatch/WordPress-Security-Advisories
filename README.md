@@ -17,7 +17,9 @@ After adding this package, if you try to `require` a package with a known vulner
 ## Additing new packages
 
 Please send a PR. Please see the rules for the WordPress core package when writing your own `conflict` rules.
-Packages need to be in alphabetical order. The first two lines are reserved for WordPress core, followed by plugins, and themes at the end. An intentional new line is used to separate core, plugins, and themes. 
+Packages need to be in alphabetical order. The first two lines are reserved for WordPress core, followed by plugins, and themes at the end. An intentional new line is used to separate core, plugins, and themes.
+
+I intend to keep this list for packages hosted in wordpress.org (thus, available at `wpackagist`). For commercial plugins and themes hosted elsewhere, I suggest you offer your own update endpoints. 
 
 ## Coordinated security releases
 
