@@ -1,0 +1,12 @@
+{
+    "name": "phpwatch/wordpress-secuity-advisories",
+    "description": "WordPress Security Advisories https://php.watch/articles/WordPress-Security-Advisories",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ayesh Karunaratne",
+            "email": "ayesh@ayesh.me"
+        }
+    ]
+}
