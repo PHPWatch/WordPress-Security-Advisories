@@ -3,6 +3,10 @@
     "description": "WordPress Security Advisories https://php.watch/articles/WordPress-Security-Advisories",
     "type": "metapackage",
     "license": "MIT",
+    "support": {
+        "source": "https://github.com/phpwatch/wordpress-security-advisories",
+        "docs": "https://php.watch/articles/WordPress-Security-Advisories"
+    },
     "authors": [
         {
             "name": "Ayesh Karunaratne",
