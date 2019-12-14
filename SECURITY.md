@@ -1,0 +1,1 @@
+This repo only contains `conflict` rules for published packages only. If you would like to coordinate a release, feel free to [contact Ayesh](https://ayesh.me/contact), with optional encrypted messages with [2CA18B2097A7429A](https://pgp.mit.edu/pks/lookup?op=get&search=0x2CA18B2097A7429A)
