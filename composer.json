@@ -1,5 +1,5 @@
 {
-    "name": "phpwatch/wordpress-secuity-advisories",
+    "name": "phpwatch/wordpress-security-advisories",
     "description": "WordPress Security Advisories https://php.watch/articles/WordPress-Security-Advisories",
     "type": "metapackage",
     "license": "MIT",
