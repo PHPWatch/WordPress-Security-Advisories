@@ -14,7 +14,7 @@ composer require --dev phpwatch/wordpress-security-advisories:dev-master
 After adding this package, if you try to `require` a package with a known vulnerability, it will be blocked. 
 
 
-## Additing new packages
+## Adding new packages
 
 Please send a PR. Please see the rules for the WordPress core package when writing your own `conflict` rules.
 Packages need to be in alphabetical order. The first two lines are reserved for WordPress core, followed by plugins, and themes at the end. An intentional new line is used to separate core, plugins, and themes.
