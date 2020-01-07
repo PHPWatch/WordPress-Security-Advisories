@@ -29,6 +29,7 @@
         "wpackagist-plugin/jetpack": ">=7.9,<7.9.1",
         "wpackagist-plugin/postie": "<=1.9.40",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
-        "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6"
+        "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
+        "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7"
     }
 }
