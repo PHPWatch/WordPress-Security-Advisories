@@ -31,6 +31,7 @@
         "wpackagist-plugin/postie": "<=1.9.40",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
         "wpackagist-plugin/ultimate-faqs": "<1.8.30",
+        "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
         "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7"
     }
