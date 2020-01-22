@@ -34,6 +34,7 @@
         "wpackagist-plugin/jetpack": ">=7.9,<7.9.1",
         "wpackagist-plugin/postie": "<=1.9.40",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
+        "wpackagist-plugin/resim-ara": "<=1.0",
         "wpackagist-plugin/ultimate-faqs": "<1.8.30",
         "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
