@@ -31,6 +31,7 @@
         "wpackagist-plugin/conversation-watson": "<0.8.21",
         "wpackagist-plugin/donorbox-donation-form": ">=7.1,<7.1.2",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
+        "wpackagist-plugin/flamingo": "<2.1.1",
         "wpackagist-plugin/gallery-images-ape": ">=2.0,<2.0.7",
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
         "wpackagist-plugin/import-users-from-csv-with-meta": "<1.15.0.1",
