@@ -32,6 +32,7 @@
         "wpackagist-plugin/contextual-adminbar-color": "<0.3",
         "wpackagist-plugin/conversation-watson": "<0.8.21",
         "wpackagist-plugin/donorbox-donation-form": ">=7.1,<7.1.2",
+        "wpackagist-plugin/easy-property-listings": "<3.4",
         "wpackagist-plugin/elementor": "<2.8.5",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
         "wpackagist-plugin/flamingo": "<2.1.1",
