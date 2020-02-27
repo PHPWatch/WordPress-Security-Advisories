@@ -34,6 +34,7 @@
         "wpackagist-plugin/donorbox-donation-form": ">=7.1,<7.1.2",
         "wpackagist-plugin/easy-property-listings": "<3.4",
         "wpackagist-plugin/elementor": "<2.8.5",
+        "wpackagist-plugin/export-users": "<=1.4.2",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
         "wpackagist-plugin/flamingo": "<2.1.1",
         "wpackagist-plugin/flexible-checkout-fields": "<2.3.2",
