@@ -36,6 +36,7 @@
         "wpackagist-plugin/elementor": "<2.8.5",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
         "wpackagist-plugin/flamingo": "<2.1.1",
+        "wpackagist-plugin/flexible-checkout-fields": "<2.3.2",
         "wpackagist-plugin/gallery-images-ape": ">=2.0,<2.0.7",
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
         "wpackagist-plugin/import-users-from-csv-with-meta": "<1.15.0.1",
