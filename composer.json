@@ -68,7 +68,7 @@
         "wpackagist-plugin/wp-central": "<1.5.2",
         "wpackagist-plugin/wp-ds-faq-plus": "<1.4.2",
         "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7",
-        "wpackagist-plugin/2j-slideshow": "<1.3.40"
+        "wpackagist-plugin/2j-slideshow": "<1.3.40",
         "wpackagist-theme/fruitful": "<3.8.1"
     }
 }
