@@ -43,6 +43,7 @@
         "wpackagist-plugin/flexible-checkout-fields": "<2.3.2",
         "wpackagist-plugin/gallery-images-ape": ">=2.0,<2.0.7",
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
+        "wpackagist-plugin/htaccess": "<1.8.2",
         "wpackagist-plugin/import-users-from-csv-with-meta": "<1.15.0.1",
         "wpackagist-plugin/jetpack": ">=7.9,<7.9.1",
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
