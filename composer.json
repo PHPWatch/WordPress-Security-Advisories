@@ -64,6 +64,7 @@
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
         "wpackagist-plugin/resim-ara": "<=1.0",
         "wpackagist-plugin/strong-testimonials": "<2.40.1",
+        "wpackagist-plugin/testimonial-free": "<2.2.0",
         "wpackagist-plugin/themegrill-demo-importer": "<1.6.3",
         "wpackagist-plugin/tutor": "<1.5.3",
         "wpackagist-plugin/ultimate-faqs": "<1.8.30",
