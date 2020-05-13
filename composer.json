@@ -59,6 +59,7 @@
         "wpackagist-plugin/modern-events-calendar-lite": ">=5,<5.1.8 || >=4,<4.9.5",
         "wpackagist-plugin/modula-best-grid-gallery": "<2.2.5",
         "wpackagist-plugin/mstore-api": "<2.0.0",
+        "wpackagist-plugin/newsletter": "<6.5.4",
         "wpackagist-plugin/ninja-forms": "<3.4.24.1",
         "wpackagist-plugin/order-import-export-for-woocommerce": "<1.6.1",
         "wpackagist-plugin/order-xml-file-export-import-for-woocommerce": "<1.3.1",
