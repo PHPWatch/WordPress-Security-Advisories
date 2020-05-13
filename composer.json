@@ -57,6 +57,7 @@
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
         "wpackagist-plugin/modern-events-calendar-lite": ">=5,<5.1.8 || >=4,<4.9.5",
         "wpackagist-plugin/modula-best-grid-gallery": "<2.2.5",
+        "wpackagist-plugin/mstore-api": "<2.0.0",
         "wpackagist-plugin/ninja-forms": "<3.4.24.1",
         "wpackagist-plugin/participants-database": "<1.9.5.6",
         "wpackagist-plugin/photo-gallery": "<1.5.46",
