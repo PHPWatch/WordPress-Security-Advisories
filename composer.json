@@ -68,6 +68,7 @@
         "wpackagist-plugin/profile-builder": "<3.1.1",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
         "wpackagist-plugin/resim-ara": "<=1.0",
+        "wpackagist-plugin/search-meter": "<2.13.2",
         "wpackagist-plugin/strong-testimonials": "<2.40.1",
         "wpackagist-plugin/testimonial-free": "<2.2.0",
         "wpackagist-plugin/themegrill-demo-importer": "<1.6.3",
