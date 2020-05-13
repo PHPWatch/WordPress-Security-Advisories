@@ -91,6 +91,7 @@
         "wpackagist-plugin/wp-advanced-search": "<3.3.7",
         "wpackagist-plugin/wp-central": "<1.5.2",
         "wpackagist-plugin/wp-ds-faq-plus": "<1.4.2",
+        "wpackagist-plugin/wp-file-upload": "<4.13.1",
         "wpackagist-plugin/wp-security-audit-log": "<4.0.2",
         "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7",
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
