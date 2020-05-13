@@ -75,6 +75,7 @@
         "wpackagist-plugin/profile-builder": "<3.1.1",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
         "wpackagist-plugin/resim-ara": "<=1.0",
+        "wpackagist-plugin/responsive-add-ons": "<2.2.6",
         "wpackagist-plugin/search-meter": "<2.13.2",
         "wpackagist-plugin/sitepress-multilingual-cms": "<4.3.7",
         "wpackagist-plugin/strong-testimonials": "<2.40.1",
