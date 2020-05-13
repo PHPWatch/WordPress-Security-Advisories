@@ -54,6 +54,7 @@
         "wpackagist-plugin/htaccess": "<1.8.2",
         "wpackagist-plugin/import-users-from-csv-with-meta": "<1.15.0.1",
         "wpackagist-plugin/jetpack": ">=7.9,<7.9.1",
+        "wpackagist-plugin/learnpress": "<3.2.6.8",
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
         "wpackagist-plugin/modern-events-calendar-lite": ">=5,<5.1.8 || >=4,<4.9.5",
         "wpackagist-plugin/modula-best-grid-gallery": "<2.2.5",
