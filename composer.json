@@ -92,6 +92,7 @@
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
         "wpackagist-plugin/wpforms-lite": "<1.5.9",
         "wpackagist-plugin/wps-hide-login": "<1.5.5",
+        "wpackagist-plugin/wpvivid-backuprestore": "<0.9.36",
         "wpackagist-plugin/wp-accessibility": "<1.7.0",
         "wpackagist-plugin/wp-advanced-search": "<3.3.7",
         "wpackagist-plugin/wp-central": "<1.5.2",
