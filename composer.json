@@ -63,6 +63,7 @@
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
         "wpackagist-plugin/htaccess": "<1.8.2",
         "wpackagist-plugin/idx-broker-platinum": "<2.6.2",
+        "wpackagist-plugin/ilab-media-tools": "<=4.5.24",
         "wpackagist-plugin/import-users-from-csv-with-meta": "<1.15.0.1",
         "wpackagist-plugin/jetpack": ">=7.9,<7.9.1",
         "wpackagist-plugin/learnpress": "<3.2.6.8",
