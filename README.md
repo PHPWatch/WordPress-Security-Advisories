@@ -1,6 +1,9 @@
 WordPress Security Advisories
 ==========================
 
+## Disclaimer
+This package MAY and most likely WILL be abandoned as long as original `phpwatch/wordpress-security-advisories` will become up-to-date and begins to be supported by its original developer ([@Ayesh](https://github.com/Ayesh)) again
+
 Inspired [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories), this package aims to provide rudimentary protection against installing known WordPress core packages, plugins, and themes. 
 
 This is a **metapackage**, which means it does not add any functional code to your application. This file is purely a JSON file that contains a list of package _conflicts_, which instructs composer to block installation of known vulnerable packages. 
@@ -8,11 +11,10 @@ This is a **metapackage**, which means it does not add any functional code to yo
 To make use of this, add this package to your composer setup:
 
 ```bash
-composer require --dev phpwatch/wordpress-security-advisories:dev-master
+composer require --dev letraceursnork/wordpress-security-advisories:dev-master
 ```
 
 After adding this package, if you try to `require` a package with a known vulnerability, it will be blocked. 
-
 
 ## Adding new packages
 
@@ -27,4 +29,4 @@ If you would like to release a security vulnerability for your plugin, and would
 
 ## Credits
 
-This package is maintained by [@Ayesh](https://github.com/Ayesh), for [PHP.Watch](https://php.watch).
+This package is maintained by [@LeTraceurSnork](https://github.com/LeTraceurSnork), for [PHP.Watch](https://php.watch).
