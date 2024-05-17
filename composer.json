@@ -109,7 +109,7 @@
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
-        "wpackagist-plugin/wordpress-seo": "<=22.5",
+        "wpackagist-plugin/wordpress-seo": "<=22.6",
         "wpackagist-plugin/wpforms-lite": "<1.5.9",
         "wpackagist-plugin/wps-hide-login": "<1.5.5",
         "wpackagist-plugin/wpvivid-backuprestore": "<0.9.36",
