@@ -27,6 +27,7 @@
         "wpackagist-plugin/akismet": "<=2.0.1",
         "wpackagist-plugin/all-in-one-wp-migration": "<7.15",
         "wpackagist-plugin/appointment-booking-calendar": "<1.3.35",
+        "wpackagist-plugin/aryo-activity-log": "<=2.8.7",
         "wpackagist-plugin/async-javascript": "<2.20.02.27",
         "wpackagist-plugin/auth0": "<3.11.3",
         "wpackagist-plugin/awesome-support": "<=5.8.0",
