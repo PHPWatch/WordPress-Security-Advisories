@@ -62,6 +62,7 @@
         "wpackagist-plugin/flamingo": "<2.1.1",
         "wpackagist-plugin/flexible-checkout-fields": "<2.3.2",
         "wpackagist-plugin/font-awesome": "<4.0.0-rc17",
+        "wpackagist-plugin/fluentform": "<=5.1.16",
         "wpackagist-plugin/gallery-images-ape": ">=2.0,<2.0.7",
         "wpackagist-plugin/gboutique": "<=1.3",
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
