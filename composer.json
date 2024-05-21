@@ -117,6 +117,7 @@
         "wpackagist-plugin/wd-google-maps": "<1.0.64",
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
+        "wpackagist-plugin/woo-checkout-field-editor-pro": "<1.8.0",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
         "wpackagist-plugin/wordpress-seo": "<=22.6",
         "wpackagist-plugin/wpforms-lite": "<1.5.9",
