@@ -78,6 +78,7 @@
         "wpackagist-plugin/learnpress": "<3.2.6.8",
         "wpackagist-plugin/lifterlms": "<3.37.15",
         "wpackagist-plugin/likebtn-like-button": "<=2.6.44",
+        "wpackagist-plugin/meta-box": "<=5.9.3",
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
         "wpackagist-plugin/modern-events-calendar-lite": ">=5,<5.1.8 || >=4,<4.9.5",
         "wpackagist-plugin/modula-best-grid-gallery": "<2.2.5",
