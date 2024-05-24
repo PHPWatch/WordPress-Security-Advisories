@@ -4,6 +4,7 @@ WordPress Security Advisories
 ## Disclaimer
 This package MAY and most likely WILL be abandoned as long as original `phpwatch/wordpress-security-advisories` will become up-to-date and begins to be supported by its original developer ([@Ayesh](https://github.com/Ayesh)) again
 
+## Description
 Inspired [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories), this package aims to provide rudimentary protection against installing known WordPress core packages, plugins, and themes. 
 
 This is a **metapackage**, which means it does not add any functional code to your application. This file is purely a JSON file that contains a list of package _conflicts_, which instructs composer to block installation of known vulnerable packages. 
