@@ -143,6 +143,7 @@
         "wpackagist-plugin/wp-mail-smtp": "<1.4.0",
         "wpackagist-plugin/wp-security-audit-log": "<4.0.2",
         "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7",
+        "wpackagist-plugin/wp-staging": "<3.5.0",
         "wpackagist-plugin/wp-super-cache": "<1.9",
         "wpackagist-plugin/xml-file-export-import-for-stampscom-and-woocommerce": "<1.1.9",
         "wpackagist-plugin/yookassa": "<2.3.1",
