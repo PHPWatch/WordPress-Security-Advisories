@@ -84,7 +84,7 @@
         "wpackagist-plugin/lifterlms": "<3.37.15",
         "wpackagist-plugin/likebtn-like-button": "<=2.6.53",
         "wpackagist-plugin/login-with-phone-number": "<=1.7.26",
-        "wpackagist-plugin/meta-box": "<=5.9.3",
+        "wpackagist-plugin/meta-box": "<=5.9.10",
         "wpackagist-plugin/miniorange-login-with-eve-online-google-facebook": "<6.24.2",
         "wpackagist-plugin/miniorange-saml-20-single-sign-on": "<4.8.84",
         "wpackagist-plugin/modern-events-calendar-lite": ">=5,<5.1.8 || >=4,<4.9.5",
