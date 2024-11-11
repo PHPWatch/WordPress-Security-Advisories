@@ -126,7 +126,7 @@
         "wpackagist-plugin/videos-on-admin-dashboard": "<1.1.4",
         "wpackagist-plugin/wd-google-maps": "<1.0.64",
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
-        "wpackagist-plugin/woocommerce": "7.9.0",
+        "wpackagist-plugin/woocommerce": "<=9.1.2",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
         "wpackagist-plugin/woo-checkout-field-editor-pro": "<=2.0.3",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
