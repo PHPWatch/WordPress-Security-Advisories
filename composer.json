@@ -49,7 +49,7 @@
         "wpackagist-plugin/cm-pop-up-banners": "<1.4.11",
         "wpackagist-plugin/code-snippets": "<2.14.0",
         "wpackagist-plugin/computer-repair-shop": "<2.0",
-        "wpackagist-plugin/contact-form-7": "<5.9.2",
+        "wpackagist-plugin/contact-form-7": "<=5.9.4",
         "wpackagist-plugin/contextual-adminbar-color": "<0.3",
         "wpackagist-plugin/conversation-watson": "<0.8.21",
         "wpackagist-plugin/cookiebot": "<3.6.1",
