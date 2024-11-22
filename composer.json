@@ -116,6 +116,7 @@
         "wpackagist-plugin/responsive-add-ons": "<2.2.6",
         "wpackagist-plugin/search-meter": "<2.13.2",
         "wpackagist-plugin/seo-by-rank-math": "<1.0.41",
+        "wpackagist-plugin/site-favicon": "<=0.2",
         "wpackagist-plugin/sitepress-multilingual-cms": "<4.3.7",
         "wpackagist-plugin/strong-testimonials": "<2.40.1",
         "wpackagist-plugin/taxonomy-terms-order": "<1.5.3",
