@@ -43,6 +43,7 @@
         "wpackagist-plugin/brizy": "<1.0.114",
         "wpackagist-plugin/buddypress": "<14.2.1",
         "wpackagist-plugin/buddypress-component-stats": "<=1.0",
+        "wpackagist-plugin/button-contact-vr": "<=4.7",
         "wpackagist-plugin/calculated-fields-form": "<1.0.355",
         "wpackagist-plugin/cardgate": "<3.1.16",
         "wpackagist-plugin/chained-quiz": "<1.1.8.2",
