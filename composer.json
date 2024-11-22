@@ -67,6 +67,7 @@
         "wpackagist-plugin/envira-gallery-lite": "<1.7.7",
         "wpackagist-plugin/events-manager": "<5.9.7.2",
         "wpackagist-plugin/export-users": "<=1.4.2",
+        "wpackagist-plugin/fastly": "<=0.97",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
         "wpackagist-plugin/flamingo": "<2.1.1",
         "wpackagist-plugin/flexible-checkout-fields": "<2.3.2",
