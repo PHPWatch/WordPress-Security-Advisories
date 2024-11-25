@@ -28,6 +28,7 @@
         "wpackagist-plugin/advanced-custom-fields": "<=6.3.8",
         "wpackagist-plugin/ajax-load-more": "<7.1.0",
         "wpackagist-plugin/akismet": "<3.1.5",
+        "wpackagist-plugin/all-in-one-event-calendar": "<1.6",
         "wpackagist-plugin/all-in-one-wp-migration": "<7.15",
         "wpackagist-plugin/appointment-booking-calendar": "<1.3.35",
         "wpackagist-plugin/apppresser": "<4.4.0",
