@@ -93,6 +93,7 @@
         "wpackagist-plugin/import-users-from-csv-with-meta": "<1.15.0.1",
         "wpackagist-plugin/ipanorama-360-virtual-tour-builder-lite": "<1.8.0",
         "wpackagist-plugin/jetpack": "<13.9.1",
+        "wpackagist-plugin/kk-star-ratings": "<=5.4.5",
         "wpackagist-plugin/learnpress": "<3.2.6.8",
         "wpackagist-plugin/lifterlms": "<3.37.15",
         "wpackagist-plugin/likebtn-like-button": "<=2.6.53",
