@@ -160,6 +160,7 @@
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
         "wpackagist-plugin/woo-checkout-field-editor-pro": "<=2.0.3",
         "wpackagist-plugin/woocommerce": "<=9.1.2",
+        "wpackagist-plugin/woocommerce-abandoned-cart": "<1.9",
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
         "wpackagist-plugin/wordfence": "<=7.6.0",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
