@@ -74,6 +74,7 @@
         "wpackagist-plugin/easy-property-listings": "<3.4",
         "wpackagist-plugin/edit-comments-xt": "<=1.0",
         "wpackagist-plugin/elementor": "<2.9.8",
+        "wpackagist-plugin/email-subscribers": "<=4.3.0",
         "wpackagist-plugin/envira-gallery-lite": "<1.7.7",
         "wpackagist-plugin/events-manager": "<5.9.7.2",
         "wpackagist-plugin/export-users": "<=1.4.2",
