@@ -85,6 +85,7 @@
         "wpackagist-plugin/gallery-images-ape": ">=2.0,<2.0.7",
         "wpackagist-plugin/gboutique": "<=1.3",
         "wpackagist-plugin/gdpr-cookie-compliance": ">=4.0,<4.0.3",
+        "wpackagist-plugin/header-footer-code-manager": "<1.1.14",
         "wpackagist-plugin/health-check": "<1.6.0",
         "wpackagist-plugin/htaccess": "<1.8.2",
         "wpackagist-plugin/idx-broker-platinum": "<2.6.2",
