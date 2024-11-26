@@ -181,6 +181,7 @@
         "wpackagist-plugin/wp-mail-smtp": "<=4.0.1",
         "wpackagist-plugin/wp-security-audit-log": "<4.0.2",
         "wpackagist-plugin/wp-simple-spreadsheet-fetcher-for-google": "<0.3.7",
+        "wpackagist-plugin/wp-socializer": "<=7.2",
         "wpackagist-plugin/wp-staging": "<3.5.0",
         "wpackagist-plugin/wp-super-cache": "<1.9",
         "wpackagist-plugin/wpdiscuz": "<=7.6.18",
