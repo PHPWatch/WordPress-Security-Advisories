@@ -158,6 +158,7 @@
         "wpackagist-plugin/waitlist-woocommerce": "<=2.6",
         "wpackagist-plugin/wd-google-maps": "<1.0.64",
         "wpackagist-plugin/web-portal-lite-client-portal-secure-file-sharing-private-messaging": "<=1.1.1",
+        "wpackagist-plugin/widgetshortcode": "<=0.3.5",
         "wpackagist-plugin/woo-checkout-field-editor-pro": "<=2.0.3",
         "wpackagist-plugin/woocommerce": "<=9.1.2",
         "wpackagist-plugin/woocommerce-abandoned-cart": "<1.9",
