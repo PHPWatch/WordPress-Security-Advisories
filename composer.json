@@ -185,6 +185,7 @@
         "wpackagist-plugin/wordpress-seo": "<=22.6",
         "wpackagist-plugin/wp-accessibility": "<1.7.0",
         "wpackagist-plugin/wp-advanced-search": "<3.3.7",
+        "wpackagist-plugin/wp-affiliate-disclosure": "<=1.2.6",
         "wpackagist-plugin/wp-central": "<1.5.2",
         "wpackagist-plugin/wp-contact-sidebar-widget": "<=1.0",
         "wpackagist-plugin/wp-dbmanager": "<=2.80.7",
