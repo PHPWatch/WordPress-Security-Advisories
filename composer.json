@@ -80,6 +80,7 @@
         "wpackagist-plugin/export-users": "<=1.4.2",
         "wpackagist-plugin/fastly": "<=0.97",
         "wpackagist-plugin/featured-image-from-url": "<2.7.8",
+        "wpackagist-plugin/fileorganizer": "<=1.0.3",
         "wpackagist-plugin/flamingo": "<2.1.1",
         "wpackagist-plugin/flexible-checkout-fields": "<2.3.2",
         "wpackagist-plugin/fluentform": "<=5.1.16",
