@@ -141,6 +141,7 @@
         "wpackagist-plugin/product-lister-walmart": "<=1.0.1",
         "wpackagist-plugin/product-reviews-import-export-for-woocommerce": "<1.3.3",
         "wpackagist-plugin/profile-builder": "<3.1.1",
+        "wpackagist-plugin/quick-pagepost-redirect-plugin": "<=5.1.9",
         "wpackagist-plugin/related-post": "<2.0.54",
         "wpackagist-plugin/relevanssi": "<=4.22.1",
         "wpackagist-plugin/rencontre": ">=3,<3.2.3",
