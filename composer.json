@@ -50,6 +50,7 @@
         "wpackagist-plugin/buddypress-component-stats": "<=1.0",
         "wpackagist-plugin/button-contact-vr": "<=4.7",
         "wpackagist-plugin/calculated-fields-form": "<1.0.355",
+        "wpackagist-plugin/calendar-plugin": "<=1.0",
         "wpackagist-plugin/cardgate": "<3.1.16",
         "wpackagist-plugin/catch-themes-demo-import": "<=1.7",
         "wpackagist-plugin/chained-quiz": "<1.1.8.2",
