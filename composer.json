@@ -101,6 +101,7 @@
         "wpackagist-plugin/iworks-pwa": "<=1.6.3",
         "wpackagist-plugin/jetpack": "<13.9.1",
         "wpackagist-plugin/kk-star-ratings": "<=5.4.5",
+        "wpackagist-plugin/leaflet-maps-marker-pro": "<1.5.8",
         "wpackagist-plugin/learnpress": "<3.2.6.8",
         "wpackagist-plugin/lifterlms": "<3.37.15",
         "wpackagist-plugin/likebtn-like-button": "<=2.6.53",
