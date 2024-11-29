@@ -174,6 +174,7 @@
         "wpackagist-plugin/woocommerce-conversion-tracking": "<2.0.6",
         "wpackagist-plugin/wordfence": "<=7.6.0",
         "wpackagist-plugin/wordpress-database-reset": "<3.15",
+        "wpackagist-plugin/wordpress-language": "<=1.2.1",
         "wpackagist-plugin/wordpress-seo": "<=22.6",
         "wpackagist-plugin/wp-accessibility": "<1.7.0",
         "wpackagist-plugin/wp-advanced-search": "<3.3.7",
