@@ -175,6 +175,7 @@
         "wpackagist-plugin/themegrill-demo-importer": "<1.6.3",
         "wpackagist-plugin/titan-framework": "<1.6",
         "wpackagist-plugin/tutor": "<1.5.3",
+        "wpackagist-plugin/twb-woocommerce-reviews": "<=1.7.5",
         "wpackagist-plugin/ultimate-faqs": "<1.8.30",
         "wpackagist-plugin/ultimate-member": "<=2.8.2 || >=2.1.3,<=2.8.2",
         "wpackagist-plugin/unusedcss": "<=1.7.1",
