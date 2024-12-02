@@ -226,6 +226,10 @@
         "wpackagist-plugin/youtube-embed-plus": "<=11.8.1",
         "wpackagist-theme/flatsome": "<=3.18.7",
         "wpackagist-theme/fruitful": "<3.8.2",
+        "wpackagist-theme/parallelus-intersect": "<2.0",
+        "wpackagist-theme/parallelus-salutation": "<2.0",
+        "wpackagist-theme/parallelus-traject": "<2.0",
+        "wpackagist-theme/parallelus-unite": "<2.0",
         "wpackagist-theme/realestate-7": "<=3.3.4"
     }
 }
