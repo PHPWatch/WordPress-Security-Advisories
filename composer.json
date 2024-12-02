@@ -184,6 +184,7 @@
         "wpackagist-plugin/ultimate-faqs": "<1.8.30",
         "wpackagist-plugin/ultimate-member": "<=2.8.2 || >=2.1.3,<=2.8.2",
         "wpackagist-plugin/unusedcss": "<=1.7.1",
+        "wpackagist-plugin/usc-e-shop": "<=2.8.4",
         "wpackagist-plugin/user-activity-log": "<=1.4.6",
         "wpackagist-plugin/user-submitted-posts": "<=20240319",
         "wpackagist-plugin/users-customers-import-export-for-wp-woocommerce": "<1.3.9",
