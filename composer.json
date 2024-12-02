@@ -45,6 +45,7 @@
         "wpackagist-plugin/bbpress": "<2.6.5",
         "wpackagist-plugin/bbpress-login-register-links-on-forum-topic-pages": ">=2,<2.8.5",
         "wpackagist-plugin/blogtopdf": "<=1.0.2",
+        "wpackagist-plugin/booking-calendar": "<=3.2.3",
         "wpackagist-plugin/breadcrumb-navxt": "<=6.1.0",
         "wpackagist-plugin/brizy": "<1.0.114",
         "wpackagist-plugin/buddypress": "<14.2.1 || <=7.2.0",
